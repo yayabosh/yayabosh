@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🥳 Welcome! I'm Abosh and I'm an undergraduate at University of Washington studying CS and math.
+* 🥳 Welcome! I'm Abosh and I'm an undergraduate at the University of Washington studying CS and math.
 * 🤔 I'm interested in artificial intelligence, super good-looking frontend design, and virtually every API that exists.
 * 🌱 Currently learning machine learning applications and how to do a backflip (trampoline stage rn)
 * 📫 How to reach me: mihiru@cs.washington.edu, [LinkedIn](https://www.linkedin.com/in/yayabosh/), or by carrier pigeon 🐓.

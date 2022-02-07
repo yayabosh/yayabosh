@@ -4,8 +4,6 @@
 * 🤔 I'm interested in artificial intelligence, super good-looking frontend design, and virtually every API that exists.
 * 🌱 Currently learning machine learning applications and how to do a backflip (trampoline stage rn)
 * 📫 How to reach me: mihiru@cs.washington.edu, [LinkedIn](https://www.linkedin.com/in/yayabosh/), or by carrier pigeon 🐓.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayabosh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **yayabosh/yayabosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

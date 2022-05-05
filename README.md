@@ -1,4 +1,4 @@
-### 👋
+### Hello 👋
 
 * 🥳 Welcome! I'm Abosh and I'm an undergraduate at the University of Washington studying CS and math.
 * 🌱 Currently learning how to do a backflip

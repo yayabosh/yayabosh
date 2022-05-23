@@ -1,7 +1,7 @@
 ### Hello 👋
 
 * 🥳 Welcome! I'm Abosh and I'm an undergraduate at the University of Washington studying CS and math.
-* 🌱 Currently learning how to do a backflip
+* 🌱 Currently learning how to do a backflip and working at [Comm](https://github.com/CommE2E/comm) in NYC!
 * 📫 How to reach me: mihiru@cs.washington.edu, [LinkedIn](https://www.linkedin.com/in/yayabosh/), or by carrier pigeon 🐓
 * 🎉 Wanna party? [Here's](https://students.washington.edu/mihiru/party.html) a fun page I made. And here's [another one](https://matias.ma/nsfw/) I wish I made !
 <!--
